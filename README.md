@@ -38,7 +38,7 @@ The primary objective of this project was to:
 
 ## Live Demo
 
-https://Vimaya353.github.io/landing-page/
+https://vimaya353.github.io/Landing-page/
 
 
 
