@@ -96,7 +96,26 @@ button {
     border-radius: 15px;
 }
 
+.box p {
+    display: flex;
+}
+
 .card {
     width: 150px;
 }
 
+.quote {
+    background: #E5E7EB;
+    padding: 100px 250px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote h3 {
+    text-align: right;
+    color: black;
+}
