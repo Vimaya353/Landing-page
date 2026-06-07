@@ -125,3 +125,27 @@ button {
     text-align: right;
     color: black;
 }
+
+.cta {
+    padding: 100px 150px;
+}
+
+.cta h3 {
+    font-size: 40px;
+}
+.cta-box {
+    background: #3882F6;
+    color: white;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 50px 100px;
+    border-radius: 10px;
+}
+
+.cta-btn {
+    border: 3px solid white;
+    font-size: 20px;
+}
