@@ -102,6 +102,12 @@ button {
 
 .card {
     width: 150px;
+    text-align: center;
+}
+
+.card p {
+    color: #1F2937;
+    margin-top: 10px;
 }
 
 .quote {
